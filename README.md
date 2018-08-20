@@ -2,7 +2,7 @@ Telegram bot
 ============
 * Project for MIPT'17 database.
 * This is the telegram-bot, imitating restaurant service, where user can look at menu, reserve a table, make an order.
-* Telegram: [@therestaurantbot](https://telegram.me/therestaurantbot) (but it's unactive now because the bot isn't running in some server).
+* Telegram: [@therestaurantbot](https://telegram.me/therestaurantbot) (but it's unactive now because the bot isn't running on some server).
 * However, you can test it on your machine (but remember that this version is kinda alpha-version, so bot suffers from bugs).
 * It uses python3, and works with database via sqlite.
 ---
