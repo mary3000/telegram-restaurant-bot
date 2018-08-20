@@ -8,11 +8,11 @@ Telegram bot
 ---
 Bot parses the information from user and saves it to database. So all actions are provided with database queries.
 
-With this bot, you can:
+<p align="center">With this bot, you can:</p>
 
 ![](https://github.com/mary3000/telegram-restaurant-bot/blob/master/screenshots/Screenshot_1.png)
 
-1. Look at the restaurant menu and make an order:
+### 1. Look at the restaurant menu and make an order:
 
 * Choose meal category
 
@@ -27,7 +27,7 @@ With this bot, you can:
 
 ![](https://github.com/mary3000/telegram-restaurant-bot/blob/master/screenshots/Screenshot_13.png)
 
-2. Book the table:
+### 2. Book the table:
 
 * Choose preferred type of table
 
@@ -42,11 +42,11 @@ With this bot, you can:
 
 ![](https://github.com/mary3000/telegram-restaurant-bot/blob/master/screenshots/Screenshot_9.png)
 
-3. Cancel your booking:
+### 3. Cancel your booking:
 
 ![](https://github.com/mary3000/telegram-restaurant-bot/blob/master/screenshots/Screenshot_10.png)
 
-4. Change your booking:
+### 4. Change your booking:
 
 ![](https://github.com/mary3000/telegram-restaurant-bot/blob/master/screenshots/Screenshot_11.png)
 
