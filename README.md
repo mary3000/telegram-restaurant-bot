@@ -1,18 +1,18 @@
 Telegram bot 
 ============
 * Project for MIPT'17 database.
-* This is the telegram-bot, imitating restaurant service, where user can look at menu, reserve a table, do an order. It hosts by [cloud9](https://ide.c9.io/).
-* Telegram: [@therestaurantbot](https://telegram.me/therestaurantbot) (but it's unactive know because cloud9 can't run my code all the time).
-* However, you can test it on your machine (but remember that this version is kinda alpha-version, so bot suffers from bugs)
+* This is the telegram-bot, imitating restaurant service, where user can look at menu, reserve a table, make an order.
+* Telegram: [@therestaurantbot](https://telegram.me/therestaurantbot) (but it's unactive now because the bot isn't running in some server).
+* However, you can test it on your machine (but remember that this version is kinda alpha-version, so bot suffers from bugs).
 * It uses python3, and works with database via sqlite.
 ---
-Bot parses the information from user and saves it to database. You can test the bo
+Bot parses the information from user and saves it to database. So all actions are provided with database queries.
 
 With this bot, you can:
 
 ![](https://github.com/mary3000/telegram-restaurant-bot/blob/master/screenshots/Screenshot_1.png)
 
-1. Look at the restaurant menu:
+1. Look at the restaurant menu and make an order:
 
 * Choose meal category
 
